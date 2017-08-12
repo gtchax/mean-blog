@@ -26,6 +26,7 @@
   "homepage": "https://github.com/gtchax/mean-blog#readme",
   "devDependencies": {
     "body-parser": "^1.17.2",
+    "crypto": "^1.0.1",
     "express": "^4.15.4",
     "helmet": "^3.8.1",
     "mongoose": "^4.11.6",
